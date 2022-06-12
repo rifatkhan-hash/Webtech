@@ -1,2 +1,2 @@
 # Webtech
-https://rifatkhan-hash.github.io/Webtech/
+https://github.com/rifatkhan-hash/Webtech
